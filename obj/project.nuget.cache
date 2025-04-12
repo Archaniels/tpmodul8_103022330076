@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "etmtj9TqnyM=",
+  "dgSpecHash": "ckCU5nINYOQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\tpmodul8_103022330076.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sxpix\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

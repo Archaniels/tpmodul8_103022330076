@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul8_103022330076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul8_103022330076\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|solutionrelative:covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul8_103022330076\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|solutionrelative:covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul8_103022330076\\visualstudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD532176-ADDB-48C9-A115-F7A0A8AE87AD}|tpmodul8_103022330076.csproj|solutionrelative:visualstudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisualStudio.gitignore",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\VisualStudio.gitignore",
+              "RelativeDocumentMoniker": "VisualStudio.gitignore",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\VisualStudio.gitignore",
+              "RelativeToolTip": "VisualStudio.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2025-04-12T19:12:46.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\covid_config.json",
+              "RelativeDocumentMoniker": "covid_config.json",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\covid_config.json",
+              "RelativeToolTip": "covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T15:22:27.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "CovidConfig.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\CovidConfig.cs",
+              "RelativeToolTip": "CovidConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:52:24.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +79,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul8_103022330076\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T14:49:14.845Z",
               "EditorCaption": ""
